@@ -18,8 +18,6 @@ import {
   FiFacebook,
 } from 'react-icons/fi';
 
-import {faFacebook,
-} from ".."
 
 const AppHeader = () => {
   const [showMenu, setShowMenu] = useState(false);

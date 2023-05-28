@@ -10,28 +10,28 @@ import AppFooterCopyright from './AppFooterCopyright';
 const socialLinks = [
 	{
 		id: 1,
-		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
+		icon: <FiYoutube />,
+		url: 'https://www.youtube.com/c/avaddov',
 	},
 	{
 		id: 2,
-		icon: <FiGithub />,
+		icon: <FiTwitter />,
 		url: 'https://github.com/realstoman',
 	},
 	{
 		id: 3,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
+		url: 'https://twitter.com/avaddov',
 	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/realstoman',
+		url: 'https://www.linkedin.com/in/dovaloof',
 	},
 	{
 		id: 5,
-		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/realstoman',
+		icon: <FiGithub />,
+		url: 'https://github.com/realstoman',
 	},
 ];
 
